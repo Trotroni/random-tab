@@ -5,7 +5,7 @@
 
 **Randomly selects one of your currently open tabs and switches to it instantly.**
 
---
+---
 
 ## 📌 Description
 
@@ -25,23 +25,27 @@ Random Tab is a lightweight Chrome extension that lets you quickly jump to a ran
 ## 🛠 Installation (Local / Development)
 
 1. **Clone or download** this repository:
-   ```bash
+
+```bash
 git clone https://github.com/your-username/random-tab.git
 ```
-2. Open Chrome and go to:
-   ```
+
+2. **Open Chrome** and go to:
+
+```text
 chrome://extensions/
 ```
-3. Enable **Developer mode** in the top-right corner.
-4. Click **Load unpacked** and select the project folder.
+
+3. Enable **Developer mode** in the top-right corner.  
+4. Click **Load unpacked** and select the project folder.  
 5. The extension icon will appear in the toolbar.
 
 ---
 
 ## 🖱 Usage
 
-1. Click the extension icon in the toolbar.
-2. Click the **"Choose Random Tab"** button.
+1. Click the extension icon in the toolbar.  
+2. Click the **"Choose Random Tab"** button.  
 3. Chrome will immediately switch to a random tab from the current window.
 
 ---
@@ -76,4 +80,3 @@ random-tab/
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
