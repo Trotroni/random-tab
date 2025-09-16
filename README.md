@@ -5,7 +5,7 @@
 
 **Randomly selects one of your currently open tabs and switches to it instantly.**
 
----
+--
 
 ## 📌 Description
 
