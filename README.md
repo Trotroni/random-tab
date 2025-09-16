@@ -27,7 +27,7 @@ Random Tab is a lightweight Chrome extension that lets you quickly jump to a ran
 1. **Clone or download** this repository:
 
 ```bash
-git clone https://github.com/your-username/random-tab.git
+git clone https://github.com/Trotroni/random-tab.git
 ```
 
 2. **Open Chrome** and go to:
